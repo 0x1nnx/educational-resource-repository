@@ -10,7 +10,7 @@ tempfile.txt
 *.out
 resources
 main
-educational-resource-repository-v2
+/educational-resource-repository-v2/educational-resource-repository-v2
 
 # Editor / IDE
 .vscode/
